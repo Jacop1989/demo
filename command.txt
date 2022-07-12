@@ -1,0 +1,3 @@
+git status
+git add .   --> add all file
+git commit -m "add readme"
